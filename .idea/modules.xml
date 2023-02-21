@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/SISA/.idea/SISA.iml" filepath="$USER_HOME$/PycharmProjects/SISA/.idea/SISA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/index_one.iml" filepath="$PROJECT_DIR$/.idea/index_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../machine-unlearning/.idea/machine-unlearning.iml" filepath="$PROJECT_DIR$/../machine-unlearning/.idea/machine-unlearning.iml" />
+    </modules>
+  </component>
+</project>
